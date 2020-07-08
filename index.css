@@ -3,57 +3,112 @@
     padding:0;
     margin:0;
     max-width:100%;
-    border: 1px solid grey;
+    
+    font-family: Roboto Mono;
   }
 
 #link1 {
-    width: 25%;
+    
     display: inline-block;
-    margin: 0 auto;
-    padding: 5%;
+       
+    background-color: #FF764E;
     
 }
 
 #link2 {
-    width: 25%;
+    
     display: inline-block;
-    margin: 3%;
-    padding: 5%;
+       
+    background-color:#5ED3EB;
     
 }
 
 #link3 {
-    width: 25%;
-    display: inline-block;
-    margin: 3%;
-    padding: 5%;
+    display: inline-block;    
+    background-color: #FFCD69;
     
 }
+nav a {
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin: 2.5% 11%;
+    padding: 1.5%;
+    width: 10%;
+    height: 10%;
+    border-style: none;
+    text-align: center;
+    font-size: 50%;
+}  
 
-#pic1 {
-    width: 20%;
-    height: 20%;
+.logo{
+    width: 22%;
+    height: 50%;
+    display:inline-block;  
+    
+}
+#pic1 {    
+    border-radius: 50%;        
+}
+div h1{
+    font-family: Chelsea Market;
+}
+header div{
+    width: 60%;
+    height: 50%;
+    display:inline-block;
+    margin-left: 6%;
+    margin-bottom: 2%;        
+}
+header p{
+    padding: 3%;
+    text-align:center;
+    font-size: 75%;
+}
+#p2 {
+    width: 100%;
+    padding: 0 25%;
+}
+header h1{
+    text-align:center;
 }
 
-header div {
-    display:inline-block;
-    width:30%;
+#m1 {
+    padding: 2.5%;
+    background-color: #DDB9A3;
+    color: white;
+    margin: 1% 2.5%;
+}
+#m1 p{
+    padding: 1%;
+    font-size: 75%;
 }
 #midsection img {
     width: 10%;
     height: 10%;
     margin: 0 auto;
     display: block;
-    padding-top: 2%;
+    
 }
 #midsection p {
-    width: 18%;
+    width: 25%;
     height: 10%;
     margin: 0 auto;
+    margin-bottom: 5%;
     display: block;
-    padding-top: 1%
+    font-size: 50%;
 }
-footer img {
-    width: 10%;
-    height: 10%;
+
+footer div {
+    background-color: #F9E7DC; 
+    display: block;   
+}
+
+#footimage {
+    width: 100%;
+    height: 20vh;
+}
+
+span {
+    font-weight: bold;
 }
