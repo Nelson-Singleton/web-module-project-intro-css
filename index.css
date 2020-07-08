@@ -1,0 +1,59 @@
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+    border: 1px solid grey;
+  }
+
+#link1 {
+    width: 25%;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 5%;
+    
+}
+
+#link2 {
+    width: 25%;
+    display: inline-block;
+    margin: 3%;
+    padding: 5%;
+    
+}
+
+#link3 {
+    width: 25%;
+    display: inline-block;
+    margin: 3%;
+    padding: 5%;
+    
+}
+
+#pic1 {
+    width: 20%;
+    height: 20%;
+}
+
+header div {
+    display:inline-block;
+    width:30%;
+}
+#midsection img {
+    width: 10%;
+    height: 10%;
+    margin: 0 auto;
+    display: block;
+    padding-top: 2%;
+}
+#midsection p {
+    width: 18%;
+    height: 10%;
+    margin: 0 auto;
+    display: block;
+    padding-top: 1%
+}
+footer img {
+    width: 10%;
+    height: 10%;
+}
