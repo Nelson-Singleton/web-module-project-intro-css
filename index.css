@@ -1,0 +1,114 @@
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+    
+    font-family: Roboto Mono;
+  }
+
+#link1 {
+    
+    display: inline-block;
+       
+    background-color: #FF764E;
+    
+}
+
+#link2 {
+    
+    display: inline-block;
+       
+    background-color:#5ED3EB;
+    
+}
+
+#link3 {
+    display: inline-block;    
+    background-color: #FFCD69;
+    
+}
+nav a {
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    margin: 2.5% 11%;
+    padding: 1.5%;
+    width: 10%;
+    height: 10%;
+    border-style: none;
+    text-align: center;
+    font-size: 50%;
+}  
+
+.logo{
+    width: 22%;
+    height: 50%;
+    display:inline-block;  
+    
+}
+#pic1 {    
+    border-radius: 50%;        
+}
+div h1{
+    font-family: Chelsea Market;
+}
+header div{
+    width: 60%;
+    height: 50%;
+    display:inline-block;
+    margin-left: 6%;
+    margin-bottom: 2%;        
+}
+header p{
+    padding: 3%;
+    text-align:center;
+    font-size: 75%;
+}
+#p2 {
+    width: 100%;
+    padding: 0 25%;
+}
+header h1{
+    text-align:center;
+}
+
+#m1 {
+    padding: 2.5%;
+    background-color: #DDB9A3;
+    color: white;
+    margin: 1% 2.5%;
+}
+#m1 p{
+    padding: 1%;
+    font-size: 75%;
+}
+#midsection img {
+    width: 10%;
+    height: 10%;
+    margin: 0 auto;
+    display: block;
+    
+}
+#midsection p {
+    width: 25%;
+    height: 10%;
+    margin: 0 auto;
+    margin-bottom: 5%;
+    display: block;
+    font-size: 50%;
+}
+
+footer div {
+    background-color: #F9E7DC; 
+    display: block;   
+}
+
+#footimage {
+    width: 100%;
+    height: 20vh;
+}
+
+span {
+    font-weight: bold;
+}
